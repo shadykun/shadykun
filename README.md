@@ -2,7 +2,8 @@
 
 ### 🌱 I’m currently studying Computer Science at Transilvania University of Brasov
 
-# 📫 How to reach me: 
+## 📫 How to reach me: 
+
 ### email me at: soltuzraresflorin2004@gmail.com
 <!--
 **shadykun/shadykun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
